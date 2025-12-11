@@ -1,0 +1,45 @@
+export const images = {
+  hero: 'https://source.unsplash.com/1600x900/?industrial,factory,plant',
+  categories: {
+    gaskets: 'https://source.unsplash.com/800x600/?gasket,flange,metal',
+    valves: 'https://source.unsplash.com/800x600/?valve,pipeline,industrial',
+    lubricants: 'https://source.unsplash.com/800x600/?lubricant,grease,industry',
+    tools: 'https://source.unsplash.com/800x600/?welding,machine,workshop',
+  },
+  gaskets: {
+    nonAsbestos: 'https://source.unsplash.com/800x600/?gasket,industrial,safety',
+    ptfe: 'https://source.unsplash.com/800x600/?ptfe,chemical,process',
+    rubber: 'https://source.unsplash.com/800x600/?rubber,sealing,gasket',
+    compressedFibre: 'https://source.unsplash.com/800x600/?fiber,gasket,joint',
+    spiralMetallic: 'https://source.unsplash.com/1200x600/?metal,gasket,spiral',
+  },
+  valves: {
+    ball: 'https://source.unsplash.com/800x600/?ball,valve,pipeline',
+    butterfly: 'https://source.unsplash.com/800x600/?butterfly,valve,industrial',
+    gate: 'https://source.unsplash.com/800x600/?gate,valve,pipe',
+    globe: 'https://source.unsplash.com/800x600/?globe,valve,process',
+    check: 'https://source.unsplash.com/800x600/?check,valve,flow',
+    safety: 'https://source.unsplash.com/800x600/?safety,valve,pressure',
+    strainers: 'https://source.unsplash.com/800x600/?strainer,pipeline',
+    sightGlass: 'https://source.unsplash.com/800x600/?sight,glass,process',
+  },
+  lubricants: {
+    antiSeize: 'https://source.unsplash.com/800x600/?lubricant,maintenance',
+    greases: 'https://source.unsplash.com/800x600/?grease,lubrication',
+    foodGrade: 'https://source.unsplash.com/800x600/?food,processing,machinery',
+    specialty: 'https://source.unsplash.com/800x600/?industrial,gear,rope',
+  },
+  machines: {
+    welding: 'https://source.unsplash.com/800x600/?welding,arc,workshop',
+    migTractor: 'https://source.unsplash.com/800x600/?mig,welding,automation',
+    plasma: 'https://source.unsplash.com/800x600/?plasma,cutting,metal',
+    spot: 'https://source.unsplash.com/800x600/?spot,welding,sheet',
+  },
+  downloads: {
+    gaskets: 'https://source.unsplash.com/800x600/?gasket,metal',
+    valves: 'https://source.unsplash.com/800x600/?valve,pipeline',
+    lubricants: 'https://source.unsplash.com/800x600/?lubricant,maintenance',
+    machines: 'https://source.unsplash.com/800x600/?welding,machine',
+    company: 'https://source.unsplash.com/800x600/?industrial,factory',
+  },
+}
